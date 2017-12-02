@@ -1,5 +1,7 @@
 # CONSOLAS DE VIDEOJUEGOS
 
+A continuacion se enlistan consolas
+
 1.ATARI 2600
 2.INTELLiVISION
 3.SEGA SG-1000
